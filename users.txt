@@ -2,3 +2,5 @@ NAME: Kenth Mariano
 PASSWORD: kenthlang
 NAME: Robert Alingco
 PASSWORD: berty
+NAME: Allysa Viray
+PASSWORD: allylovekenth
